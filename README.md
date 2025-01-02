@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi 👋, I'm KuNal Gajanan Sapkal
+### Hi there 👋
+I am Kunal, 🌟 DevOps Enthusiast | AZR & AWS DevOps and Cloud Engineer | Docker | Kubernetes | Jenkins | Azure DevOps | ArgoCD | Linux | Maven | Git | GitHub | AWS | Azure | SonarCloud | Ansible | Terraform
 
-<!--
-**SapkalKunal96/SapkalKunal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about solving complex problems through innovative DevOps practices and cloud-native solutions. With a solid background in deploying scalable, automated systems, I specialize in CI/CD pipelines, Kubernetes, AWS Cloud, and containerization. My work is focused on bridging the gap between development and operations, enabling faster, more reliable delivery of software and infrastructure. 🎯
+   
+📫 How to reach me?
+Visit my Website 🌐
+Connect with me on LinkedIn 👨🏻‍💻
+Follow me on Instagram ✨
+Shoot Me an Email 💌>
