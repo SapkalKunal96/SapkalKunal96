@@ -9,7 +9,7 @@ I am passionate about solving complex problems through innovative DevOps practic
 
 How you can reach me?
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=#A30701&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 
