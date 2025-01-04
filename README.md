@@ -9,7 +9,8 @@ I am passionate about solving complex problems through innovative DevOps practic
 
 How you can reach me?
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkdin](https://img.shields.io/badge/linkdin-000000?style=for-the-badge&logo=GitHub&logoColor=red)
 
 
 
