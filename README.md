@@ -3,8 +3,4 @@ I am Kunal, 🌟 DevOps Enthusiast | AZR & AWS DevOps and Cloud Engineer | Docke
 
 I am passionate about solving complex problems through innovative DevOps practices and cloud-native solutions. With a solid background in deploying scalable, automated systems, I specialize in CI/CD pipelines, Kubernetes, AWS Cloud, and containerization. My work is focused on bridging the gap between development and operations, enabling faster, more reliable delivery of software and infrastructure. 🎯
    
-📫 How to reach me?
-Visit my Website 🌐
-Connect with me on LinkedIn 👨🏻‍💻
-Follow me on Instagram ✨
-Shoot Me an Email 💌>
+https://private-user-images.githubusercontent.com/40286378/313414929-8c9e2b9c-fd9f-48ed-af6e-ae9d347dd96e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU5NjAzODMsIm5iZiI6MTczNTk2MDA4MywicGF0aCI6Ii80MDI4NjM3OC8zMTM0MTQ5MjktOGM5ZTJiOWMtZmQ5Zi00OGVkLWFmNmUtYWU5ZDM0N2RkOTZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA0VDAzMDgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNmYwNTNkZjc1OWIxZTQ1NGE3OGZhODY1NmNmOGNmZjE3NWQ5MjViMTEzZDU4ZmQ2ODY5ZTcxMDU1N2UwOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YpQPe1Y3qmGYH5Q_OO0h8-9bzq2XEAIPdR4xRL94wOE
