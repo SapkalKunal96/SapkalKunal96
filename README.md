@@ -2,6 +2,8 @@
 I am Kunal, 🌟 DevOps Enthusiast | AZR & AWS DevOps and Cloud Engineer | Docker | Kubernetes | Jenkins | Azure DevOps | ArgoCD | Linux | Maven | Git | GitHub | AWS | Azure | SonarCloud | Ansible | Terraform
 
 I am passionate about solving complex problems through innovative DevOps practices and cloud-native solutions. With a solid background in deploying scalable, automated systems, I specialize in CI/CD pipelines, Kubernetes, AWS Cloud, and containerization. My work is focused on bridging the gap between development and operations, enabling faster, more reliable delivery of software and infrastructure. 🎯
+
+
    
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
